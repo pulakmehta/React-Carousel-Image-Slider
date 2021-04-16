@@ -1,19 +1,5 @@
 ### Installation
 
-#### yarn
-
-`yarn add use-slider`
-
-#### npm
-
-`npm install use-slider`
-
-#### include css
-
-```js
-import "use-slider/lib/slider.min.css";
-```
-
 ### Basic Usage
 
 ```tsx
